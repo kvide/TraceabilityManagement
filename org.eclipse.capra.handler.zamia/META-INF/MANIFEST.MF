@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: zamiaHandler
+Bundle-SymbolicName: org.eclipse.capra.handler.zamia;singleton:=true
+Bundle-Version: 0.7.0.qualifier
+Bundle-Vendor: scillasystems.com
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.capra.core;bundle-version="0.7.0",
+ org.zamia.cad;bundle-version="0.11.4"
+Export-Package: org.eclipse.capra.handler.zamia

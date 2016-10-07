@@ -39,6 +39,10 @@
 <unit id="net.sourceforge.plantuml.feature.feature.group" version="0.0.0"/>
 <repository location="http://basar.idi.ntnu.no/svn/tdt4100/anonymous/trunk/updatesite"/>
 </location>
+<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="zamiaCAD.feature.group" version="0.11.4"/>
+<repository location="http://zamiacad.sourceforge.net/update-site"/>
+</location>
 </locations>
 <launcherArgs>
 </launcherArgs>
